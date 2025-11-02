@@ -1,5 +1,5 @@
 {
-  "name": "login_api",
+  "name": "login-api",
   "version": "1.0.0",
   "type": "module",
   "dependencies": {
